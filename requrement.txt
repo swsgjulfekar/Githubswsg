@@ -1,0 +1,5 @@
+ecomerce website
+address
+payment
+delivery
+location
